@@ -7,7 +7,7 @@
     "start": "node server.js",
     "test": "echo 'No tests specified' && exit 0"
   },
-  "keywords": ["technologie", "softwareentwicklung", "tech-evangelismus"],
+  "keywords": ["technology", "software-development", "tech-evangelism"],
   "author": "John Doe",
   "license": "MIT",
   "dependencies": {

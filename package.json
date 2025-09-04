@@ -8,7 +8,7 @@
     "test": "echo 'No tests specified' && exit 0"
   },
   "keywords": ["technologie", "softwareentwicklung", "tech-evangelismus"],
-  "author": "Ihr Name",
+  "author": "John Doe",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",

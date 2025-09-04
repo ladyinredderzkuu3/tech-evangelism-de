@@ -9,7 +9,7 @@ app.use(cors());
 app.use(bodyParser.json());
 
 app.get('/', (req, res) => {
-  res.send('Welcome to Tech Evangelism DE! - Your go-to app for tech insights.');
+  res.send('Welcome to Tech Evangelism DE! Your go-to application for the latest in tech insights.');
 });
 
 app.listen(PORT, () => {

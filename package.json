@@ -1,7 +1,7 @@
 {
   "name": "tech-evangelism-de",
   "version": "1.0.0",
-  "description": "Ein Projekt zur Förderung neuer Technologien in der Softwareentwicklung",
+  "description": "Projekt zur Förderung neuer Technologien in der Softwareentwicklung",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
